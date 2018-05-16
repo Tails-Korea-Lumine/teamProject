@@ -1,0 +1,59 @@
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl TeapotChrome
+Ka 0 0 0
+Kd 0 1 1
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd Chips_Cover.jpg
+
+newmtl ee
+Ka 0 0 0
+Kd 0 1 1
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd Chips_Cover.jpg
+
+newmtl qq
+Ka 0 0 0
+Kd 0 1 1
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd Chips_Cover.jpg
+
+newmtl rr
+Ka 0 0 0
+Kd 0 1 1
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd Chips_Cover.jpg
+
+newmtl yy
+Ka 0 0 0
+Kd 0 1 1
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd Chips_Cover.jpg
+

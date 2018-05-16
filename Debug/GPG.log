@@ -1,0 +1,21 @@
+﻿  DG2014_DGObject.cpp
+  DG2014_Effect.cpp
+  DG2014_Font.cpp
+  DG2014_Image.cpp
+  DG2014_IndexBuffer.cpp
+  DG2014_InputLayout.cpp
+  DG2014_Mesh.cpp
+  DG2014_MeshSOBFile.cpp
+  DG2014_Texture.cpp
+  DG2014_Ver3_51.cpp
+  DG2014_VertexBuffer.cpp
+  DG2014_VertexContainer.cpp
+  DI2014_Ver3_4.cpp
+  GameEngine_Ver3_7.cpp
+  myLib.cpp
+  MyPG.cpp
+  Task_Title.cpp
+  WinMain.cpp
+  xnacollision.cpp
+  コードを生成中...
+  GPG.vcxproj -> C:\Users\game\Desktop\3d(task_system)(skar)\Debug\GPG.exe

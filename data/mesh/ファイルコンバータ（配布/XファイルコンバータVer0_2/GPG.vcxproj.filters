@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="LIB">
+      <UniqueIdentifier>{113049ad-8f97-405e-b7fa-c2eb0d7c72af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GE">
+      <UniqueIdentifier>{e0294728-b669-4576-bbe8-b27e38689412}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MyPG">
+      <UniqueIdentifier>{b647d201-8c7c-4a86-b3a0-22febd645a02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MyPG\Task">
+      <UniqueIdentifier>{a4244487-2442-4a07-a772-bce446878d2f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DI2012.cpp">
+      <Filter>LIB</Filter>
+    </ClCompile>
+    <ClCompile Include="myLib.cpp">
+      <Filter>LIB</Filter>
+    </ClCompile>
+    <ClCompile Include="Task_Title.cpp">
+      <Filter>MyPG\Task</Filter>
+    </ClCompile>
+    <ClCompile Include="Task_Game.cpp">
+      <Filter>MyPG\Task</Filter>
+    </ClCompile>
+    <ClCompile Include="MyPG.cpp">
+      <Filter>MyPG</Filter>
+    </ClCompile>
+    <ClCompile Include="WinMain.cpp">
+      <Filter>MyPG</Filter>
+    </ClCompile>
+    <ClCompile Include="MyMouse.cpp">
+      <Filter>MyPG</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEngine_Ver1_1.cpp">
+      <Filter>GE</Filter>
+    </ClCompile>
+    <ClCompile Include="DG2014.cpp">
+      <Filter>LIB</Filter>
+    </ClCompile>
+    <ClCompile Include="Task_Player.cpp">
+      <Filter>MyPG\Task</Filter>
+    </ClCompile>
+    <ClCompile Include="Task_BaseChara.cpp">
+      <Filter>MyPG\Task</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="myLib.h">
+      <Filter>LIB</Filter>
+    </ClInclude>
+    <ClInclude Include="DI2012.h">
+      <Filter>LIB</Filter>
+    </ClInclude>
+    <ClInclude Include="Task_Title.h">
+      <Filter>MyPG\Task</Filter>
+    </ClInclude>
+    <ClInclude Include="Task_Game.h">
+      <Filter>MyPG\Task</Filter>
+    </ClInclude>
+    <ClInclude Include="MyPG.h">
+      <Filter>MyPG</Filter>
+    </ClInclude>
+    <ClInclude Include="MyMouse.h">
+      <Filter>MyPG</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEngine_Ver1_1.h">
+      <Filter>GE</Filter>
+    </ClInclude>
+    <ClInclude Include="DG2014.h">
+      <Filter>LIB</Filter>
+    </ClInclude>
+    <ClInclude Include="Task_Player.h">
+      <Filter>MyPG\Task</Filter>
+    </ClInclude>
+    <ClInclude Include="Task_BaseChara.h">
+      <Filter>MyPG\Task</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
