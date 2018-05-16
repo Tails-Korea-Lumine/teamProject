@@ -81,6 +81,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Breaker.cpp" />
     <ClCompile Include="DG2014\DG2014_DGObject.cpp" />
     <ClCompile Include="DG2014\DG2014_Effect.cpp" />
     <ClCompile Include="DG2014\DG2014_Font.cpp" />
@@ -94,6 +95,7 @@
     <ClCompile Include="DG2014\DG2014_VertexBuffer.cpp" />
     <ClCompile Include="DG2014\DG2014_VertexContainer.cpp" />
     <ClCompile Include="DI2014_Ver3_4.cpp" />
+    <ClCompile Include="Door.cpp" />
     <ClCompile Include="GameEngine_Ver3_7.cpp" />
     <ClCompile Include="myLib.cpp" />
     <ClCompile Include="MyPG.cpp" />
@@ -102,6 +104,7 @@
     <ClCompile Include="xnacollision.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Breaker.h" />
     <ClInclude Include="DG2014\DG2014_DGObject.h" />
     <ClInclude Include="DG2014\DG2014_Effect.h" />
     <ClInclude Include="DG2014\DG2014_Font.h" />
@@ -114,6 +117,7 @@
     <ClInclude Include="DG2014\DG2014_VertexBuffer.h" />
     <ClInclude Include="DG2014\DG2014_VertexContainer.h" />
     <ClInclude Include="DI2014_Ver3_4.h" />
+    <ClInclude Include="Door.h" />
     <ClInclude Include="EFile.h" />
     <ClInclude Include="GameEngine_Ver3_7.h" />
     <ClInclude Include="myLib.h" />

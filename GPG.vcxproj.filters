@@ -41,6 +41,12 @@
     <Filter Include="Game">
       <UniqueIdentifier>{8d64114e-801c-48b8-a839-7e124c05d6ac}</UniqueIdentifier>
     </Filter>
+    <Filter Include="MyPG\door">
+      <UniqueIdentifier>{8e25cd5a-9635-4bb6-b92f-cd6fba0cb319}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MyPG\breaker">
+      <UniqueIdentifier>{1abd2154-6f47-42b2-8b2b-ca8ab059210f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="myLib.cpp">
@@ -100,6 +106,12 @@
     <ClCompile Include="Task_Title.cpp">
       <Filter>MyPG</Filter>
     </ClCompile>
+    <ClCompile Include="Door.cpp">
+      <Filter>MyPG\door</Filter>
+    </ClCompile>
+    <ClCompile Include="Breaker.cpp">
+      <Filter>MyPG\breaker</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="myLib.h">
@@ -155,6 +167,12 @@
     </ClInclude>
     <ClInclude Include="Task_Title.h">
       <Filter>MyPG</Filter>
+    </ClInclude>
+    <ClInclude Include="Door.h">
+      <Filter>MyPG\door</Filter>
+    </ClInclude>
+    <ClInclude Include="Breaker.h">
+      <Filter>MyPG\breaker</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
